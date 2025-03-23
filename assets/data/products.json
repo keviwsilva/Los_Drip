@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Air Jordan 1 High OG",
+      "image": "assets/img/camisas/camisa1.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "Air Flight Lite",
+      "image": "assets/img/camisas/camisa2.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "Air Jordan 37",
+      "image": "assets/img/camisas/camisa3.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "Lebron NXXT",
+      "image": "assets/img/camisas/camisa4.jpg",
+      "price": 40.00,
+      "size": "G2"
+    },
+    {
+      "name": "Air Luka 1",
+      "image": "assets/img/camisas/camisa5.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "Air Force 1 '07",
+      "image": "assets/img/camisas/camisa6.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "Air Jordan 37 Low",
+      "image": "assets/img/camisas/camisa8.jpg",
+      "price": 40.00,
+      "size": "G1"
+    },
+    {
+      "name": "WMNS Jordan 1 Retro",
+      "image": "assets/img/camisas/camisa9.jpg",
+      "price": 40.00,
+      "size": "G2"
+    },
+    {
+      "name": "Air Jordan 1 Retro High",
+      "image": "assets/img/camisas/camisa10.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "Ja 1",
+      "image": "assets/img/camisas/camisa11.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "Air Max 1",
+      "image": "assets/img/camisas/camisa12.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "Women's Dunk Low LX",
+      "image": "assets/img/camisas/camisa13.jpg",
+      "price": 40.00,
+      "size": "G"
+    }
+  ]
+}

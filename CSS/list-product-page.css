@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+body {
+    background-color: #0A0A0A;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background-color: #111;
+  border-bottom: 2px solid #f5439c;
+  position: relative;
+  box-shadow: 0 0 7px #f5439c, 0 0 13px #f5439c, 0 0 20px #f5439c; /* Efeito neon reduzido */
+  animation: neonGlow 1.5s ease-in-out infinite alternate; /* Animação do brilho pulsante */
+}
+
+@keyframes neonGlow {
+  0% {
+      box-shadow: 0 0 7px #f5439c, 0 0 13px #f5439c, 0 0 20px #f5439c;
+  }
+  50% {
+      box-shadow: 0 0 10px #f5439c, 0 0 17px #f5439c, 0 0 25px #f5439c;
+  }
+  100% {
+      box-shadow: 0 0 7px #f5439c, 0 0 13px #f5439c, 0 0 20px #f5439c;
+  }
+}
+
+.logo {
+  height: 100px;
+}
+
+/* Menu */
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.menu li a {
+  color: #f5439c;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.menu li a:hover {
+  color: #00d4ff;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  /* Logo */
+  .logo {
+    height: 80px; /* Reduzir a altura da logo para telas menores */
+  }
+
+  /* Menu - Transforma a lista de itens em uma lista vertical */
+  .menu {
+    flex-direction: column; /* Lista empilhada */
+    gap: 15px;
+    padding: 20px;
+    width: 100%;
+    margin-top: 10px; /* Dá um pequeno espaçamento do topo */
+  }
+
+  .menu li a {
+    font-size: 18px; /* Ajuste do tamanho da fonte para dispositivos menores */
+  }
+}
+
+@media (max-width: 480px) {
+  /* Logo */
+  .logo {
+    height: 70px; /* Reduzir ainda mais para telas muito pequenas */
+  }
+
+  .menu li a {
+    font-size: 16px; /* Ajuste do tamanho da fonte */
+  }
+}
+
+
+/* Seção do Catálogo */
+.catalog {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.title h2 {
+  font-size: 32px;
+  color: #00d4ff;
+  text-shadow: 0 0 7px #00d4ff, 0 0 13px #00d4ff, 0 0 20px #00d4ff; /* Efeito neon no texto */
+  animation: neonGlowText 1.5s ease-in-out infinite alternate; /* Animação do brilho pulsante */
+}
+
+@keyframes neonGlowText {
+  0% {
+      text-shadow: 0 0 7px #00d4ff, 0 0 13px #00d4ff, 0 0 20px #00d4ff;
+  }
+  50% {
+      text-shadow: 0 0 10px #00d4ff, 0 0 17px #00d4ff, 0 0 25px #00d4ff;
+  }
+  100% {
+      text-shadow: 0 0 7px #00d4ff, 0 0 13px #00d4ff, 0 0 20px #00d4ff;
+  }
+}
+
+.title p {
+    font-size: 18px;
+    color: #bbb;
+}
+
+.shoes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+.card {
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 200px;
+}
+.card img {
+  width: 100%;
+  height: 55%;
+  border-radius: 5px;
+}
+
+/* Botão de compra */
+.buy-button {
+  display: inline-block;
+  background: linear-gradient(45deg, #ff0080, #00d4ff);
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.7s;
+}
+
+.buy-button:hover {
+  background: linear-gradient(45deg, #00d4ff, #ff0080);
+  transition: 1s;
+}

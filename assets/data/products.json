@@ -4,29 +4,23 @@
       "name": "CYCLONE BEJE",
       "image": "assets/img/camisas/camisa1.jpg",
       "price": 40.00,
-      "size": "M"
+      "size": "GG"
     },
     {
       "name": "CYCLONE BRANCA",
       "image": "assets/img/camisas/camisa2.jpg",
       "price": 40.00,
-      "size": "M"
+      "size": "G"
     },
     {
       "name": "GUCCI BRANCA",
       "image": "assets/img/camisas/camisa3.jpg",
       "price": 40.00,
-      "size": "G"
+      "size": "GG"
     },
     {
       "name": "CYCLONE ESTAMPA ATRÁS",
       "image": "assets/img/camisas/camisa4.jpg",
-      "price": 40.00,
-      "size": "G2"
-    },
-    {
-      "name": "NIKE BART",
-      "image": "assets/img/camisas/camisa5.jpg",
       "price": 40.00,
       "size": "G"
     },
@@ -40,31 +34,13 @@
       "name": "LACOSTE PRETA",
       "image": "assets/img/camisas/camisa8.jpg",
       "price": 40.00,
-      "size": "G1"
-    },
-    {
-      "name": "NIKE PRETA ESTAMPA ATRÁS",
-      "image": "assets/img/camisas/camisa9.jpg",
-      "price": 40.00,
       "size": "G2"
-    },
-    {
-      "name": "NIKE BRANCA E PRETA BART",
-      "image": "assets/img/camisas/camisa10.jpg",
-      "price": 40.00,
-      "size": "G"
     },
     {
       "name": "NIKE SB VERMELHA",
       "image": "assets/img/camisas/camisa11.jpg",
       "price": 40.00,
-      "size": "M"
-    },
-    {
-      "name": "TONY COUNTRY BRANCA",
-      "image": "assets/img/camisas/camisa12.jpg",
-      "price": 40.00,
-      "size": "G"
+      "size": "GG"
     },
     {
       "name": "NIKE BRANCA TOM E JERRY",
@@ -73,25 +49,13 @@
       "size": "G"
     },
     {
-      "name": "NIKE VERMELHA PERNALONGA",
-      "image": "assets/img/camisas/camisa15.jpg",
+      "name": "HIGH POPEYE PRETA",
+      "image": "assets/img/camisas/camisa16.jpg",
       "price": 40.00,
       "size": "M"
     },
     {
-      "name": "HIGH POPEYE PRETA",
-      "image": "assets/img/camisas/camisa16.jpg",
-      "price": 40.00,
-      "size": "G"
-    },
-    {
-      "name": "NIKE PRETA E DOURADA",
-      "image": "assets/img/camisas/camisa17.jpg",
-      "price": 40.00,
-      "size": "G1"
-    },
-    {
-      "name": "TONY COUNTRY",
+      "name": "TONY COUNTRY BEJE",
       "image": "assets/img/camisas/camisa18.jpg",
       "price": 40.00,
       "size": "G"
@@ -100,23 +64,17 @@
       "name": "CYCLONE BEJE ESTAMPA NA FRENTE",
       "image": "assets/img/camisas/camisa19.jpg",
       "price": 40.00,
-      "size": "M"
+      "size": "GG"
     },
     {
       "name": "NIKE PRETA E BRANCA MANGA COMPRIDA",
       "image": "assets/img/camisas/camisa20.jpeg",
       "price": 40.00,
-      "size": "G"
+      "size": "GG"
     },
     {
       "name": "OFFWHITE BRANCA E AZUL",
       "image": "assets/img/camisas/camisa21.jpeg",
-      "price": 40.00,
-      "size": "M"
-    },
-    {
-      "name": "TONY COUNTRY BRANCA ESTAMPA ATRÁS",
-      "image": "assets/img/camisas/camisa22.jpeg",
       "price": 40.00,
       "size": "G"
     },

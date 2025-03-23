@@ -71,6 +71,108 @@
       "image": "assets/img/camisas/camisa13.jpg",
       "price": 40.00,
       "size": "G"
+    },
+    {
+      "name": "NIKE VERMELHA PERNALONGA",
+      "image": "assets/img/camisas/camisa15.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "HIGH POPEYE PRETA",
+      "image": "assets/img/camisas/camisa16.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "NIKE PRETA E DOURADA",
+      "image": "assets/img/camisas/camisa17.jpg",
+      "price": 40.00,
+      "size": "G1"
+    },
+    {
+      "name": "TONY COUNTRY",
+      "image": "assets/img/camisas/camisa18.jpg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "CYCLONE BEJE ESTAMPA NA FRENTE",
+      "image": "assets/img/camisas/camisa19.jpg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "NIKE PRETA E BRANCA MANGA COMPRIDA",
+      "image": "assets/img/camisas/camisa20.jpeg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "OFFWHITE BRANCA E AZUL",
+      "image": "assets/img/camisas/camisa21.jpeg",
+      "price": 40.00,
+      "size": "M"
+    },
+    {
+      "name": "TONY COUNTRY BRANCA ESTAMPA ATRÁS",
+      "image": "assets/img/camisas/camisa22.jpeg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "NIKE BRANCA E VERMELHA ESTAMPA ATRÁS",
+      "image": "assets/img/camisas/camisa23.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "HIGH POPEYE BRANCA ESTAMPA ATRÁS",
+      "image": "assets/img/camisas/camisa24.jpeg",
+      "price": 40.00,
+      "size": "G"
+    },
+    {
+      "name": "NIKE BRANCA",
+      "image": "assets/img/camisas/camisa25.jpeg",
+      "price": 40.00,
+      "size": "G2"
+    },
+    {
+      "name": "OAKLEY BEJE",
+      "image": "assets/img/camisas/camisa26.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "QUICK SILVER PRETA",
+      "image": "assets/img/camisas/camisa27.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "GUCCI BRANCA",
+      "image": "assets/img/camisas/camisa28.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "QUICK SILVER BRANCA",
+      "image": "assets/img/camisas/camisa29.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "GUCCI BRANCA TAZ-MANIA E PERNALONGA",
+      "image": "assets/img/camisas/camisa30.jpeg",
+      "price": 40.00,
+      "size": "GG"
+    },
+    {
+      "name": "GUCCI BRANCA MICKEY",
+      "image": "assets/img/camisas/camisa31.jpeg",
+      "price": 40.00,
+      "size": "GG"
     }
   ]
 }

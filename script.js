@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 // Adiciona evento de clique para abrir o WhatsApp com a mensagem
                 productElement.addEventListener("click", () => {
-                    const phoneNumber = "5511999999999"; // Substitua pelo número correto
+                    const phoneNumber = "5512988528896"; // Substitua pelo número correto
                     const message = `Olá! Gostaria de comprar a seguinte camisa: *${product.name}* Tamanho: ${product.size} Preço: R$ ${product.price.toFixed(2)}\n\nPoderia me ajudar com a compra?`;
                     const encodedMessage = encodeURIComponent(message);
                     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
